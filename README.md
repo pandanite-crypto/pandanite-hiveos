@@ -1,5 +1,11 @@
 # bamboo-hiveos
 
+hiveos miner package for dcrpt-miner
+
+[Bamboo](https://www.bamboocrypto.io/)
+
+[dcrpt-miner](https://github.com/De-Crypted/dcrptd-miner)
+
 # Setup Guide
 
 ## Create Wallet
