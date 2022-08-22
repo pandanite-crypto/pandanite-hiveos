@@ -42,4 +42,5 @@ Extra config arguments: choose desired arguments ('--pufferfish2bmb:threads 4' t
 
 ## Issues
 reported CPU temp & fan speed are zero
+
 hashrate is displayed in kH/s but its actually only H/s
