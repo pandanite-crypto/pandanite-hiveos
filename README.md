@@ -1,10 +1,10 @@
 # bamboo-hiveos
 
-hiveos miner package for dcrpt-miner
+hiveos miner package for dcrptd-miner
 
 [Bamboo](https://www.bamboocrypto.io/)
 
-[dcrpt-miner](https://github.com/De-Crypted/dcrptd-miner)
+[dcrptd-miner](https://github.com/De-Crypted/dcrptd-miner)
 
 # Setup Guide
 
@@ -32,7 +32,7 @@ Miner: select 'custom' as your miner and click on 'Setup Miner Config'
 
 ## Miner Config
 
-Name: dcrptminer
+Name: dcrptdminer
 
 Installation URL: choose a realease from [here](https://github.com/f10crypto/bamboo-hiveos/releases/latest), find dcrptdminer.tar.gz, right-click and copy link address
 
