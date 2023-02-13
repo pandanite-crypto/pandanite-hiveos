@@ -1,8 +1,8 @@
-# bamboo-hiveos
+# pandanite-hiveos
 
 hiveos miner package for dcrptd-miner
 
-[Bamboo](https://www.bamboocrypto.io/)
+[Pandanite](https://www.bamboocrypto.io/)
 
 [dcrptd-miner](https://github.com/De-Crypted/dcrptd-miner)
 
@@ -12,7 +12,7 @@ hiveos miner package for dcrptd-miner
 
 In your hiveos dashboard create a new wallet.
 
-Ticker: BMB
+Ticker: PDN
 
 Address: your address
 
@@ -22,7 +22,7 @@ Source: leave blank
 
 ## Edit existing Flight Sheet or create new one
 
-Coin: BMB
+Coin: PDN
 
 Wallet: select the wallet you created earlier
 
@@ -40,7 +40,7 @@ Hash algorithm: leave blank
 
 Wallet and worker template: %WAL%.%WORKER_NAME%
 
-Pool URL: your desired pool URL (shifu://185.215.180.7:5555 or stratum+tcp://bmb.ffmpool.com:4444)
+Pool URL: your desired pool URL (shifu://185.215.180.7:5555 or stratum+tcp://pdn.ffmpool.com:4444)
 
 Pass: leave blank
 
