@@ -2,7 +2,7 @@
 
 hiveos miner package for dcrptd-miner
 
-[Pandanite](https://www.bamboocrypto.io/)
+[Pandanite](https://pandanite-crypto.github.io/)
 
 [dcrptd-miner](https://github.com/De-Crypted/dcrptd-miner)
 
